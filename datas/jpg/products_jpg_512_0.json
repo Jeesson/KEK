@@ -1,0 +1,21 @@
+{"frames": {
+
+"product-background":
+{
+	"frame": {"x":1,"y":1,"w":480,"h":300},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":480,"h":300},
+	"sourceSize": {"w":480,"h":300},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/products_spritemap_jpg_512_0.jpg",
+	"format": "RGB888",
+	"size": {"w":482,"h":302},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:31430817c8ff44fa540d6e600cda06d5:7f86093d3fe8ab0a000d8ec3b1fb3805:c346b32376ce984864104945033a3855$"
+}
+}

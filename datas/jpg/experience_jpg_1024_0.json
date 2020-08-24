@@ -1,0 +1,66 @@
+{"frames": {
+
+"slide-chameleon-background":
+{
+	"frame": {"x":1510,"y":1018,"w":1015,"h":508},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":508},
+	"sourceSize": {"w":1015,"h":508},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-cloud-land":
+{
+	"frame": {"x":1018,"y":1,"w":1015,"h":583},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":583},
+	"sourceSize": {"w":1015,"h":583},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-health-background":
+{
+	"frame": {"x":1603,"y":1,"w":1015,"h":412},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":412},
+	"sourceSize": {"w":1015,"h":412},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-intro-background":
+{
+	"frame": {"x":1,"y":1018,"w":1015,"h":828},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":828},
+	"sourceSize": {"w":1015,"h":828},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-leaf-background":
+{
+	"frame": {"x":831,"y":1018,"w":1015,"h":677},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":677},
+	"sourceSize": {"w":1015,"h":677},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-water-under-background":
+{
+	"frame": {"x":1,"y":1,"w":1015,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":1015},
+	"sourceSize": {"w":1015,"h":1015},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1024_0.jpg",
+	"format": "RGB888",
+	"size": {"w":2019,"h":2034},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

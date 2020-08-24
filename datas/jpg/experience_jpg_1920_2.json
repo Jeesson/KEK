@@ -1,0 +1,57 @@
+{"frames": {
+
+"slide-360-background-blured":
+{
+	"frame": {"x":1,"y":2935,"w":1015,"h":478},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":478},
+	"sourceSize": {"w":1015,"h":478},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-flamingo-background":
+{
+	"frame": {"x":1,"y":903,"w":2030,"h":639},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":639},
+	"sourceSize": {"w":2030,"h":639},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-flamingo-water":
+{
+	"frame": {"x":642,"y":903,"w":2030,"h":546},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":546},
+	"sourceSize": {"w":2030,"h":546},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-health-middleground":
+{
+	"frame": {"x":1190,"y":903,"w":1920,"h":553},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1920,"h":553},
+	"sourceSize": {"w":1920,"h":553},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-rain-background-blured":
+{
+	"frame": {"x":1,"y":1,"w":1800,"h":900},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1800,"h":900},
+	"sourceSize": {"w":1800,"h":900},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1920_2.jpg",
+	"format": "RGB888",
+	"size": {"w":1802,"h":3414},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

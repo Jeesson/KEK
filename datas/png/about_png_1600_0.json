@@ -1,0 +1,84 @@
+{"frames": {
+
+"about-branch-1":
+{
+	"frame": {"x":900,"y":1,"w":1036,"h":1000},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1036,"h":1000},
+	"sourceSize": {"w":1036,"h":1000},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-branch-3":
+{
+	"frame": {"x":1003,"y":1003,"w":954,"h":759},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":954,"h":759},
+	"sourceSize": {"w":954,"h":759},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-branch-4":
+{
+	"frame": {"x":1,"y":1548,"w":357,"h":1000},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":357,"h":1000},
+	"sourceSize": {"w":357,"h":1000},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fix":
+{
+	"frame": {"x":1,"y":1907,"w":16,"h":812},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":16,"h":812},
+	"sourceSize": {"w":16,"h":812},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fog":
+{
+	"frame": {"x":1764,"y":1003,"w":516,"h":182},
+	"rotated": true,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":516,"h":182},
+	"sourceSize": {"w":520,"h":182},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fruit-2":
+{
+	"frame": {"x":900,"y":1003,"w":62,"h":139},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":62,"h":139},
+	"sourceSize": {"w":62,"h":139},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fruit-5":
+{
+	"frame": {"x":1764,"y":1521,"w":227,"h":362},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":227,"h":362},
+	"sourceSize": {"w":227,"h":362},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-leaf":
+{
+	"frame": {"x":1,"y":1,"w":1545,"h":897},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1545,"h":897},
+	"sourceSize": {"w":1545,"h":897},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/about_spritemap_png_1600_0.png",
+	"format": "RGBA8888",
+	"size": {"w":1992,"h":1958},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e81e9a6cf8b438c33cc0bf65bec59cf:77d6060938070f48898c866fd4a55243:c5798b5e7fe571c0bad2f8905ad54137$"
+}
+}

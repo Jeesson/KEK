@@ -1,0 +1,102 @@
+{"frames": {
+
+"slide-360-background":
+{
+	"frame": {"x":2033,"y":2035,"w":2030,"h":956},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":956},
+	"sourceSize": {"w":2030,"h":956},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-chameleon-background":
+{
+	"frame": {"x":2033,"y":1,"w":2030,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":1015},
+	"sourceSize": {"w":2030,"h":1015},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-cloud-sky":
+{
+	"frame": {"x":2033,"y":2993,"w":2030,"h":700},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":700},
+	"sourceSize": {"w":2030,"h":700},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-firefly-background":
+{
+	"frame": {"x":1,"y":2144,"w":2030,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":750},
+	"sourceSize": {"w":2030,"h":750},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-firefly-water":
+{
+	"frame": {"x":2033,"y":3695,"w":2030,"h":326},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":326},
+	"sourceSize": {"w":2030,"h":326},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-health-background-top":
+{
+	"frame": {"x":2033,"y":1018,"w":2030,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":1015},
+	"sourceSize": {"w":2030,"h":1015},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-rain-background":
+{
+	"frame": {"x":1,"y":1127,"w":2030,"h":1015},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":1015},
+	"sourceSize": {"w":2030,"h":1015},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-tree-background":
+{
+	"frame": {"x":1,"y":1,"w":2030,"h":1124},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":1124},
+	"sourceSize": {"w":2030,"h":1124},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-water-land-background":
+{
+	"frame": {"x":1,"y":2896,"w":2030,"h":738},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":738},
+	"sourceSize": {"w":2030,"h":738},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-water-surface":
+{
+	"frame": {"x":1,"y":3636,"w":2030,"h":385},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2030,"h":385},
+	"sourceSize": {"w":2030,"h":385},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1920_1.jpg",
+	"format": "RGB888",
+	"size": {"w":4064,"h":4022},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

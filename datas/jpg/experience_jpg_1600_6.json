@@ -1,0 +1,48 @@
+{"frames": {
+
+"slide-360-background-blured":
+{
+	"frame": {"x":1,"y":1152,"w":846,"h":398},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":846,"h":398},
+	"sourceSize": {"w":846,"h":398},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-flamingo-background":
+{
+	"frame": {"x":1,"y":618,"w":1692,"h":532},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1692,"h":532},
+	"sourceSize": {"w":1692,"h":532},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-rain-background-blured":
+{
+	"frame": {"x":401,"y":1152,"w":1500,"h":750},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1500,"h":750},
+	"sourceSize": {"w":1500,"h":750},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-water-land-background":
+{
+	"frame": {"x":1,"y":1,"w":1692,"h":615},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1692,"h":615},
+	"sourceSize": {"w":1692,"h":615},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1600_6.jpg",
+	"format": "RGB888",
+	"size": {"w":1902,"h":1999},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

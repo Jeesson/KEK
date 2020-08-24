@@ -1,0 +1,3526 @@
+{
+    "assetsToLoad": {
+        "1920": [
+            [
+                "datas/jpg/about_jpg_1920_0.json",
+                "datas/png/about_png_1920_0.json"
+            ],
+            [
+                "datas/jpg/experience_jpg_1920_0.json",
+                "datas/jpg/experience_jpg_1920_1.json",
+                "datas/jpg/experience_jpg_1920_2.json",
+                "datas/png/experience_png_1920_0.json",
+                "datas/png/experience_png_1920_1.json",
+                "datas/png/experience_png_1920_2.json",
+                "datas/png/experience_png_1920_3.json",
+                "datas/png/experience_png_1920_4.json"
+            ],
+            [
+                "datas/jpg/products_jpg_1920_0.json",
+                "datas/png/products_png_1920_0.json"
+            ]
+        ],
+        "1600": [
+            [
+                "datas/jpg/about_jpg_1600_0.json",
+                "datas/jpg/about_jpg_1600_1.json",
+                "datas/png/about_png_1600_0.json",
+                "datas/png/about_png_1600_1.json",
+                "datas/png/about_png_1600_2.json"
+            ],
+            [
+                "datas/jpg/experience_jpg_1600_0.json",
+                "datas/jpg/experience_jpg_1600_1.json",
+                "datas/jpg/experience_jpg_1600_2.json",
+                "datas/jpg/experience_jpg_1600_3.json",
+                "datas/jpg/experience_jpg_1600_4.json",
+                "datas/jpg/experience_jpg_1600_5.json",
+                "datas/jpg/experience_jpg_1600_6.json",
+                "datas/jpg/experience_jpg_1600_7.json",
+                "datas/jpg/experience_jpg_1600_8.json",
+                "datas/png/experience_png_1600_0.json",
+                "datas/png/experience_png_1600_1.json",
+                "datas/png/experience_png_1600_2.json"
+            ],
+            [
+                "datas/jpg/products_jpg_1600_0.json",
+                "datas/png/products_png_1600_0.json"
+            ]
+        ],
+        "1024": [
+            [
+                "datas/jpg/about_jpg_1024_0.json",
+                "datas/png/about_png_1024_0.json"
+            ],
+            [
+                "datas/jpg/experience_jpg_1024_0.json",
+                "datas/jpg/experience_jpg_1024_1.json",
+                "datas/jpg/experience_jpg_1024_2.json",
+                "datas/png/experience_png_1024_0.json",
+                "datas/png/experience_png_1024_1.json"
+            ],
+            [
+                "datas/jpg/products_jpg_1024_0.json",
+                "datas/png/products_png_1024_0.json"
+            ]
+        ],
+        "768": [
+            [
+                "datas/jpg/about_jpg_768_0.json",
+                "datas/png/about_png_768_0.json"
+            ],
+            [
+                "datas/jpg/experience_jpg_768_0.json",
+                "datas/jpg/experience_jpg_768_1.json",
+                "datas/png/experience_png_768_0.json"
+            ],
+            [
+                "datas/jpg/products_jpg_768_0.json",
+                "datas/png/products_png_768_0.json"
+            ]
+        ],
+        "512": [
+            [
+                "datas/jpg/about_jpg_512_0.json",
+                "datas/png/about_png_512_0.json"
+            ],
+            [
+                "datas/jpg/experience_jpg_512_0.json",
+                "datas/png/experience_png_512_0.json"
+            ],
+            [
+                "datas/jpg/products_jpg_512_0.json",
+                "datas/png/products_png_512_0.json"
+            ]
+        ]
+    },
+    "about": {
+        "background": {
+            "id": "about-background",
+            "still-mult": 4,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "about-background-left",
+                    "url": "about-background-left",
+                    "scale": 1.2315270936,
+                    "ratio": 0.5,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-background-right",
+                    "url": "about-background-right",
+                    "scale": 1.2315270936,
+                    "ratio": 0.5,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 1.3,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-fix",
+                    "url": "about-fix",
+                    "scale": 1.2315270936,
+                    "ratio": 0.5,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 1.295,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-cliff-6",
+                    "url": "about-cliff-6",
+                    "scale": 1,
+                    "ratio": 0.51,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.95,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "about-cliff-4",
+                    "url": "about-cliff-4",
+                    "scale": 1,
+                    "ratio": 0.515,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.45,
+                    "y": 0.7
+                },
+                {
+                    "type": "image",
+                    "id": "about-fog",
+                    "url": "about-fog",
+                    "scale": 4,
+                    "ratio": 0.52,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "about-cliff-3",
+                    "url": "about-cliff-3",
+                    "scale": 1,
+                    "ratio": 0.52,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.55,
+                    "y": 0.4
+                },
+                {
+                    "type": "image",
+                    "id": "about-cliff-2",
+                    "url": "about-cliff-2",
+                    "scale": 1,
+                    "ratio": 0.53,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.8,
+                    "y": 0.4
+                },
+                {
+                    "type": "image",
+                    "id": "about-cliff-1",
+                    "url": "about-cliff-1",
+                    "scale": 1,
+                    "ratio": 0.54,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.75,
+                    "y": 0.8
+                },
+                {
+                    "type": "image",
+                    "id": "about-mountain-fixed",
+                    "url": "about-mountain-fixed",
+                    "scale": 1,
+                    "ratio": 0.5,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 1.785,
+                    "y": 0.292
+                },
+                {
+                    "type": "image",
+                    "id": "about-light-transition",
+                    "url": "about-light-transition",
+                    "scale": 4,
+                    "ratio": 0.55,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-leaf",
+                    "url": "about-leaf",
+                    "scale": 1,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-branch-4",
+                    "url": "about-branch-4",
+                    "scale": 1,
+                    "ratio": 0.93,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.52,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-branch-3",
+                    "url": "about-branch-3",
+                    "scale": 1,
+                    "ratio": 0.94,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.18
+                },
+                {
+                    "type": "image",
+                    "id": "about-branch-2",
+                    "url": "about-branch-2",
+                    "scale": 1,
+                    "ratio": 0.96,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.18
+                },
+                {
+                    "type": "image",
+                    "id": "about-fruit-5",
+                    "url": "about-fruit-5",
+                    "scale": 1,
+                    "ratio": 0.98,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.37,
+                    "y": 0.56
+                },
+                {
+                    "type": "image",
+                    "id": "about-branch-1",
+                    "url": "about-branch-1",
+                    "scale": 1,
+                    "ratio": 1,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "about-fruit-4",
+                    "url": "about-fruit-4",
+                    "scale": 1,
+                    "ratio": 1.02,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.8
+                },
+                {
+                    "type": "image",
+                    "id": "about-fruit-3",
+                    "url": "about-fruit-3",
+                    "scale": 1,
+                    "ratio": 1.02,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.56,
+                    "y": 0.46
+                },
+                {
+                    "type": "image",
+                    "id": "about-fruit-2",
+                    "url": "about-fruit-2",
+                    "scale": 1,
+                    "ratio": 1,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.59,
+                    "y": 0.12
+                },
+                {
+                    "type": "image",
+                    "id": "about-fruit-1",
+                    "url": "about-fruit-1",
+                    "scale": 1,
+                    "ratio": 1.02,
+                    "friction": 1,
+                    "anchor": "0,0",
+                    "x": 0.4,
+                    "y": 0.37
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 2.5,
+                    "rotate": -45,
+                    "ratio": 1.1,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.1,
+                    "y": 0.8
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": -46,
+                    "ratio": 1.2,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.2,
+                    "y": 0.6
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": -25,
+                    "ratio": 1.3,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.15,
+                    "y": 0.7
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": 55,
+                    "ratio": 1.4,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.15,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": -45,
+                    "ratio": 1.1,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 1.1,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 4,
+                    "rotate": -45,
+                    "ratio": 1.2,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 1.5,
+                    "y": 0.4
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 4,
+                    "rotate": -45,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 1.8,
+                    "y": 0.8
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": 40,
+                    "ratio": 1.05,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 2.2,
+                    "y": 0.85
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": -100,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 2,
+                    "y": 0.9
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 4,
+                    "rotate": -45,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 2.4,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 4,
+                    "rotate": -75,
+                    "ratio": 0.75,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 3.1,
+                    "y": 0.9
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 4,
+                    "rotate": -120,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 3.5,
+                    "y": 0.6
+                },
+                {
+                    "type": "image",
+                    "id": "about-cloud",
+                    "url": "about-cloud",
+                    "scale": 3,
+                    "rotate": -45,
+                    "ratio": 0.9,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 3.35,
+                    "y": 0.85
+                },
+                {
+                    "type": "image",
+                    "id": "corner-overlay",
+                    "url": "corner-overlay",
+                    "scale": 2,
+                    "rotate": 0,
+                    "ratio": 0,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.95,
+                    "y": 0.95
+                },
+                {
+                    "type": "image",
+                    "id": "corner-overlay",
+                    "url": "corner-overlay",
+                    "scale": 2,
+                    "rotate": 0,
+                    "ratio": 0,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.05,
+                    "y": 0.05
+                }
+            ]
+        },
+        "list": [
+            {
+                "id": "about-food",
+                "title": "The finest<br/>of nature’s<br/>food",
+                "color": "#4b4c56",
+                "wide": false,
+                "width": "22vw",
+                "description": "Over the last few generations, our lifestyles have changed radically. We now live at a faster pace and often seem to lack time for balanced, regular meals. For many, processed meals have replaced simple, nourishing wholefoods. They are convenient, but often fail to provide  the nutrients we require. Since it began, Rainforest Foods’ purpose has been to help people combine good nutrition with modern living. We have sourced a range of wholefoods with exceptional nutritional richness that can support modern lifestyles rather than forcing them to change.",
+                "partners": [],
+                "x": "0.1",
+                "y": "0.7",
+                "objects": []
+            },
+            {
+                "id": "about-search",
+                "title": "Man and<br/>nature",
+                "color": "#4b4c56",
+                "wide": false,
+                "width": "15vw",
+                "description": "Our Belief: Rainforest Foods believes that man and nature are forever bound together in a symbiotic relationship.<br/>Our Purpose: Rainforest Foods exists to help man and nature take care of each other.",
+                "partners": [],
+                "x": "0.09",
+                "y": "0.33",
+                "objects": []
+            },
+            {
+                "id": "about-believe",
+                "title": "Shared<br/>earth",
+                "color": "#4b4c56",
+                "wide": false,
+                "width": "20vw",
+                "description": "Rainforest Foods has adopted a philosophy we call shared earth. We believe that we all share a responsibility to help protect the earth and to improve the lives of those who need a helping hand. Most of our farmers live in the developing world; by sourcing organically grown superfoods from them, we help sustain their livelihoods and allow them to continue farming in an environmentally sustainable manner.  We also support a number of social partners and help fund their development work.",
+                "partners": [],
+                "x": "0.08",
+                "y": "0.75",
+                "objects": []
+            },
+            {
+                "id": "about-range",
+                "title": "OUR<br/>PARTNERS",
+                "color": "#4b4c56",
+                "wide": true,
+                "width": "30vw",
+                "description": "We work with a small group of partners including certification organisations, cooperatives, producers and social partners. All of these partners play a part in helping us to provide our customers with the finest ethically sourced organic superfoods. All of our products are organically certified by the Soil Association and registered by the Vegan Society. Our social partners include our nature partner: Rainforest Concern, and our people partner: Warka Water.",
+                "partners": [
+                    {
+                        "img": "./assets/images/partner-1.png",
+                        "href": "",
+                        "title": ""
+                    },
+                    {
+                        "img": "./assets/images/partner-2.png",
+                        "href": "",
+                        "title": ""
+                    },
+                    {
+                        "img": "./assets/images/partner-3.png",
+                        "href": "",
+                        "title": ""
+                    }
+                ],
+                "x": "0.1",
+                "y": "0.6",
+                "objects": []
+            }
+        ]
+    },
+    "products": {
+        "background": {
+            "offset": 0,
+            "still-mult": 4,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "product-background",
+                    "url": "product-background",
+                    "scale": 1,
+                    "ratio": 0.25,
+                    "friction": 0,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "product-background",
+                    "url": "product-background",
+                    "scale": 1,
+                    "ratio": 0.25,
+                    "friction": 0,
+                    "anchor": "0,0",
+                    "x": 1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "product-light",
+                    "url": "product-light",
+                    "light": true,
+                    "scale": 4,
+                    "ratio": 0,
+                    "friction": 1,
+                    "anchor": "0.5,0.5",
+                    "x": 0.5,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "product-frame",
+                    "url": "product-frame",
+                    "scale": 4.2,
+                    "ratio": 0,
+                    "friction": 0,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        "list": [
+            {
+                "id": "product-barleygrass",
+                "title": "Barley Grass",
+                "description": "Barley grass is the young, leafy growth of barley and contains a  broad range of vitamins and minerals.. Our barley grass is grown on the fertile Canterbury plains in New Zealand.",
+                "link": "https://www.rainforestfoods.com/barley-grass-powder",
+                "slide": "slide-health",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "barleygrass-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-barleygrass-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.39,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "barleygrass-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-barleygrass-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "barleygrass-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-barleygrass-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.6,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "barleygrass-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-barleygrass-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.2
+                    },
+                    {
+                        "type": "image",
+                        "id": "barleygrass-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-barleygrass-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.39,
+                        "y": 0.45
+                    }
+                ]
+            },
+            {
+                "id": "product-acaiberry",
+                "title": "Acai Berry",
+                "description": "Acai berries are the small purple fruit produced by the acai palm, a tree found in the Amazon rainforest. It is one of the most antioxidant-rich foods on the planet.",
+                "link": "https://www.rainforestfoods.com/acai-berry-powder",
+                "slide": "slide-clouds",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "acaiberry-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-acaiberry-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.39,
+                        "y": 0.36
+                    },
+                    {
+                        "type": "image",
+                        "id": "acaiberry-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-acaiberry-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.25",
+                        "x": 0.5,
+                        "y": 0.35
+                    },
+                    {
+                        "type": "image",
+                        "id": "acaiberry-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-acaiberry-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.58,
+                        "y": 0.46
+                    },
+                    {
+                        "type": "image",
+                        "id": "acaiberry-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-acaiberry-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.6
+                    },
+                    {
+                        "type": "image",
+                        "id": "acaiberry-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-acaiberry-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.35,
+                        "y": 0.6
+                    }
+                ]
+            },
+            {
+                "id": "product-cacao",
+                "title": "Cacao",
+                "description": "Cacao is the raw base of chocolate, but it is a remarkable food in its own right. It is one of the most antioxidant-rich foods available, boasting a range of amino acids that make it a valuable part of a healthy diet.",
+                "link": "https://www.rainforestfoods.com/cacao-powder",
+                "slide": "slide-tree",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-cacao-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.35
+                    },
+                    {
+                        "type": "image",
+                        "id": "cacao-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-cacao-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "cacao-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-cacao-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.42,
+                        "y": 0.72
+                    },
+                    {
+                        "type": "image",
+                        "id": "products-cacao-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-cacao-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.56,
+                        "y": 0.625
+                    },
+                    {
+                        "type": "image",
+                        "id": "products-cacao-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-cacao-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.35,
+                        "y": 0.45
+                    }
+                ]
+            },
+            {
+                "id": "product-chia",
+                "title": "Chia",
+                "description": "Chia seeds are believed to have been a staple food of the Aztecs and have been hailed as a highly valuable food for centuries. They are rich in Omega-3 and Omega-6 in what we now know to be an ideal ratio. ",
+                "link": "https://www.rainforestfoods.com/chia-seeds",
+                "slide": "slide-frog",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "chia-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chia-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.64,
+                        "y": 0.36
+                    },
+                    {
+                        "type": "image",
+                        "id": "chia-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-chia-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "chia-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chia-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.47
+                    },
+                    {
+                        "type": "image",
+                        "id": "chia-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chia-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.4,
+                        "y": 0.67
+                    },
+                    {
+                        "type": "image",
+                        "id": "chia-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chia-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.34,
+                        "y": 0.41
+                    }
+                ]
+            },
+            {
+                "id": "product-spirulina",
+                "title": "Spirulina",
+                "description": "Spirulina is a blue-green algae produced by photosynthesis. It contains a wide range of nutrients and has been described as nature’s multivitamin. It is especially high in iron.",
+                "link": "https://www.rainforestfoods.com/spirulina-powder",
+                "slide": "slide-flamingo",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "spirulina-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-spirulina-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.38,
+                        "y": 0.4
+                    },
+                    {
+                        "type": "image",
+                        "id": "spirulina-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-spirulina-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "spirulina-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-spirulina-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.54,
+                        "y": 0.47
+                    },
+                    {
+                        "type": "image",
+                        "id": "spirulina-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-spirulina-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.41,
+                        "y": 0.55
+                    },
+                    {
+                        "type": "image",
+                        "id": "spirulina-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-spirulina-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.65
+                    }
+                ]
+            },
+            {
+                "id": "product-macaroot",
+                "title": "Maca",
+                "description": "Maca is a Peruvian root that was prized throughout the Inca empire for its adaptogenic-like qualities that enable it to nourish and balance the body's delicate endocrine system, and to help it cope with stress.",
+                "link": "https://www.rainforestfoods.com/maca-powder",
+                "slide": "slide-marsh",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "macaroot-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-macaroot-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "macaroot-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-macaroot-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "macaroot-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-macaroot-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.38,
+                        "y": 0.66
+                    },
+                    {
+                        "type": "image",
+                        "id": "macaroot-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-macaroot-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.34,
+                        "y": 0.48
+                    }
+                ]
+            },
+            {
+                "id": "product-chlorella",
+                "title": "Chlorella",
+                "description": "Chlorella is a useful supplement to a vegetarian or vegan diet and offers much of the nutrition we require, including protein, carbohydrates and a range of vitamins and minerals. It is especially high in vitamin B12.",
+                "link": "https://www.rainforestfoods.com/chlorella-powder",
+                "slide": "slide-water",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chlorella-parallax-5",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.38,
+                        "y": 0.63
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-chlorella-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chlorella-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.39,
+                        "y": 0.285
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chlorella-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.6,
+                        "y": 0.74
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chlorella-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.33,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "chlorella-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-chlorella-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.67,
+                        "y": 0.31
+                    }
+                ]
+            },
+            {
+                "id": "product-wheatgrass",
+                "title": "Wheatgrass",
+                "description": "Wheatgrass is the leafy growth of the young wheat plant. It is packed with nutrients, including essential vitamins, minerals, enzymes, phytonutrients and all the essential amino acids.",
+                "link": "https://www.rainforestfoods.com/wheatgrass-powder",
+                "slide": "slide-chameleon",
+                "offset": 0,
+                "objects": [
+                    {
+                        "type": "image",
+                        "id": "acaiberry-shadow",
+                        "shadow": true,
+                        "url": "product-shadow",
+                        "scale": 1,
+                        "ratio": 1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.65
+                    },
+                    {
+                        "type": "image",
+                        "id": "wheatgrass-parallax-4",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-wheatgrass-parallax-4",
+                        "ratio": 1.05,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.38,
+                        "y": 0.4
+                    },
+                    {
+                        "type": "image",
+                        "id": "wheatgrass-packshot",
+                        "packshot": true,
+                        "scale": 1,
+                        "url": "products-wheatgrass-packshot",
+                        "ratio": 1.1,
+                        "friction": 1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.5,
+                        "y": 0.5
+                    },
+                    {
+                        "type": "image",
+                        "id": "wheatgrass-parallax-3",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-wheatgrass-parallax-3",
+                        "ratio": 1.1,
+                        "friction": 0.2,
+                        "anchor": "0.5,0.5",
+                        "x": 0.63,
+                        "y": 0.66
+                    },
+                    {
+                        "type": "image",
+                        "id": "wheatgrass-parallax-2",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-wheatgrass-parallax-2",
+                        "ratio": 1.15,
+                        "friction": 0.05,
+                        "anchor": "0.5,0.5",
+                        "x": 0.35,
+                        "y": 0.7
+                    },
+                    {
+                        "type": "image",
+                        "id": "wheatgrass-parallax-1",
+                        "parallax": true,
+                        "scale": 1,
+                        "url": "products-wheatgrass-parallax-1",
+                        "ratio": 1.2,
+                        "friction": 0.1,
+                        "anchor": "0.5,0.5",
+                        "x": 0.58,
+                        "y": 0.29
+                    }
+                ]
+            }
+        ]
+    },
+    "slides": [
+        {
+            "id": "slide-intro",
+            "component": "app-timeline-intro",
+            "mask": true,
+            "title": [
+                "COSMIC",
+                 "SILVER"
+                ],
+            "product": false,
+            "triggers": false,
+            "ratio": [
+                0,
+                1
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-intro-background",
+                    "url": "slide-intro-background",
+                    "scale": 1.0945812808,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.5
+                },
+                {
+                    "id": "flamingo-bird-emiter-2",
+                    "type": "particle-emiter",
+                    "particle-type": "bird",
+                    "scale": 1,
+                    "particle-scale": 0.75,
+                    "animated": true,
+                    "count": 5,
+                    "frames": [
+                        16
+                    ],
+                    "url": [
+                        "bird_fly_v2_"
+                    ],
+                    "decimals": [
+                        4
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-intro-branch-2",
+                    "url": "slide-intro-branch-2",
+                    "alpha": true,
+                    "ratio": 0.21,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.48
+                },
+                {
+                    "type": "image",
+                    "id": "slide-intro-branch-1",
+                    "url": "slide-intro-branch-1",
+                    "foreground": true,
+                    "alpha": true,
+                    "ratio": 0.25,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.1365
+                }
+            ]
+        },
+        {
+            "id": "slide-health",
+            "component": "app-timeline-health",
+            "mask": true,
+            "title": [
+                "NEW AGE",
+                "OF TECHNOLOGY"
+            ],
+            "description": [
+                "Chlorophyll is the basis of life on Earth.",
+                "It helps plants turn sunlight into food and colours nature green.",
+                "It is responsible for many of the health benefits of barley grass, which is rich in chlorophyll."
+            ],
+            "product": {
+                "id": "product-barleygrass",
+                "title": "Barley Grass",
+                "img": "./assets/images/products-barleygrass-packshot.png",
+                "index": 1
+            },
+            "triggers": false,
+            "ratio": [
+                2,
+                3
+            ],
+            "still-mult": 1.75,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-health-background-top",
+                    "url": "slide-health-background-top",
+                    "scale": 1.1822660099,
+                    "ratio": 0.095,
+                    "anchor": "0,0",
+                    "x": -0.05,
+                    "y": -1.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-middleground",
+                    "url": "slide-health-middleground",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.2,
+                    "y": -0.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-middleground-top",
+                    "url": "slide-health-middleground-top",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.2,
+                    "y": -0.8055
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-background",
+                    "url": "slide-health-background",
+                    "scale": 1.1822660099,
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-foreground",
+                    "url": "slide-health-foreground",
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.508
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-6",
+                    "url": "slide-health-branch-6",
+                    "alpha": true,
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.3
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-5",
+                    "url": "slide-health-branch-5",
+                    "alpha": true,
+                    "ratio": 0.13,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-4",
+                    "url": "slide-health-branch-4",
+                    "alpha": true,
+                    "ratio": 0.17,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.63
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-3",
+                    "url": "slide-health-branch-3",
+                    "alpha": true,
+                    "ratio": 0.22,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-fog",
+                    "url": "slide-health-fog",
+                    "alpha": true,
+                    "ratio": 0.15,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-2",
+                    "url": "slide-health-branch-2",
+                    "alpha": true,
+                    "ratio": 0.21,
+                    "anchor": "0,0",
+                    "x": -0.018,
+                    "y": 0.48
+                },
+                {
+                    "id": "slide-health-butterfly-emiter",
+                    "type": "particle-emiter",
+                    "particle-type": "butterfly",
+                    "animated": true,
+                    "count": 4,
+                    "frames": [
+                        7,
+                        7,
+                        7,
+                        7
+                    ],
+                    "url": [
+                        "sprite-butterfly1_",
+                        "sprite-butterfly2_",
+                        "sprite-butterfly3_",
+                        "sprite-butterfly4_"
+                    ],
+                    "decimals": [
+                        5,
+                        5,
+                        5,
+                        5
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-health-branch-1",
+                    "url": "slide-health-branch-1",
+                    "alpha": true,
+                    "ratio": 0.25,
+                    "anchor": "0,0",
+                    "x": -0.0254,
+                    "y": 0.04
+                }
+            ]
+        },
+        {
+            "id": "slide-clouds",
+            "component": "app-timeline-clouds",
+            "mask": true,
+            "title": [
+                "INNOVATION",
+                "SILVER USE"
+            ],
+            "description": [
+                "Our acai berries come from communities in the Amazonian Rainforest, such as those in Porvenir, where acai cultivation is community-owned,",
+                "organic, wild harvested and sustainable."
+            ],
+            "product": {
+                "id": "product-acaiberry",
+                "title": "Acai Berry",
+                "img": "./assets/images/products-acaiberry-packshot.png",
+                "index": 0
+            },
+            "triggers": [
+                {
+                    "id": "clouds-trigger",
+                    "label": "explore",
+                    "class": "explore-btn js-clouds-trigger"
+                }
+            ],
+            "ratio": [
+                4.5,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 464.96,
+                    "id": "slide-cloud-sky",
+                    "url": "slide-cloud-sky",
+                    "scale": 1.0753694581,
+                    "ratio": 0.1,
+                    "forceTopLeftAnchor": true,
+                    "x": 0,
+                    "y": 0.45
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 0,
+                    "id": "slide-cloud-land",
+                    "url": "slide-cloud-land",
+                    "scale": 1.0753694581,
+                    "ratio": 0.1,
+                    "anchor": "0,1",
+                    "forceTopLeftAnchor": true,
+                    "x": 0,
+                    "y": 1.075369458
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 464.96,
+                    "id": "slide-cloud-fix",
+                    "url": "slide-cloud-fix",
+                    "scale": 1.0753694581,
+                    "ratio": 0.1,
+                    "forceTopLeftAnchor": true,
+                    "x": 0,
+                    "y": 0.9945
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 450,
+                    "id": "slide-cloud-low-cloud-8",
+                    "url": "slide-cloud-low-cloud-8",
+                    "ratio": 0.1,
+                    "x": 0.8,
+                    "y": 1
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 450,
+                    "id": "slide-cloud-low-cloud-7",
+                    "url": "slide-cloud-low-cloud-7",
+                    "ratio": 0.105,
+                    "x": 0.5,
+                    "y": 1
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 400,
+                    "id": "slide-cloud-low-cloud-6",
+                    "url": "slide-cloud-low-cloud-6",
+                    "ratio": 0.12,
+                    "x": 0.4,
+                    "y": 1.01
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 400,
+                    "id": "slide-cloud-low-cloud-5",
+                    "url": "slide-cloud-low-cloud-5",
+                    "ratio": 0.11,
+                    "x": 0.8,
+                    "y": 1.02
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 370,
+                    "id": "slide-cloud-low-cloud-3",
+                    "url": "slide-cloud-low-cloud-3",
+                    "ratio": 0.13,
+                    "x": 0.15,
+                    "y": 1.05
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 300,
+                    "id": "slide-cloud-low-cloud-2",
+                    "url": "slide-cloud-low-cloud-2",
+                    "ratio": 0.15,
+                    "x": 0.5,
+                    "y": 1.2
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 300,
+                    "id": "slide-cloud-low-cloud-1",
+                    "url": "slide-cloud-low-cloud-1",
+                    "ratio": 0.16,
+                    "x": 0,
+                    "y": 1.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-cloud-orb",
+                    "url": "slide-cloud-orb",
+                    "ratio": 0.12,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-cloud-overlay",
+                    "url": "slide-cloud-overlay",
+                    "ratio": 0,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 500,
+                    "particle-type": "cloud",
+                    "count": 60,
+                    "fog": {
+                        "near": 0.98,
+                        "far": 0.05
+                    },
+                    "max-z": -2000,
+                    "particle-scale": 15,
+                    "perspective": 150,
+                    "id": "cloud-particle-emiter",
+                    "url": [
+                        "particle-cloud"
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-hoop",
+                    "url": "slide-leaf-hoop",
+                    "ratio": 0,
+                    "anchor": "0.5,0.5",
+                    "scale": 1.5,
+                    "x": 0.3,
+                    "y": 1.5
+                }
+            ]
+        },
+        {
+            "id": "slide-tree",
+            "component": "app-timeline-tree",
+            "mask": true,
+            "title": [
+                "YOUR",
+                "HEALTH",
+                "YOUR CHOICE"
+            ],
+            "description": [
+                "In the wild, cacao trees are hidden beneath the taller",
+                "rainforest canopy as protection from direct sunlight and wind."
+            ],
+            "product": {
+                "id": "product-cacao",
+                "title": "Cacao",
+                "img": "./assets/images/products-cacao-packshot.png",
+                "index": 1
+            },
+            "triggers": false,
+            "ratio": [
+                9,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-tree-background",
+                    "url": "slide-tree-background",
+                    "scale": 1.1822660099,
+                    "ratio": 0.1,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 40,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-tree-layer-2",
+                    "url": "slide-tree-layer-2",
+                    "ratio": 0.105,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "id": "parrot-emiter-1",
+                    "type": "particle-emiter",
+                    "particle-type": "parrot",
+                    "scale": 0.5,
+                    "rotate": 90,
+                    "animated": true,
+                    "count": 5,
+                    "frames": [
+                        15
+                    ],
+                    "url": [
+                        "sprite-parrot-"
+                    ],
+                    "decimals": [
+                        5
+                    ],
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-tree-layer-1",
+                    "url": "slide-tree-layer-1",
+                    "ratio": 0.11,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 40,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.115,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-tree-fog",
+                    "url": "slide-tree-fog",
+                    "ratio": 0.115,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.5,
+                    "scale": 4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-tree-flare",
+                    "url": "slide-tree-flare",
+                    "ratio": 0.1,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-tree-sun",
+                    "url": "slide-tree-sun",
+                    "ratio": 0.1,
+                    "forceTopLeftAnchor": true,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 4
+                }
+            ]
+        },
+        {
+            "id": "slide-leaf",
+            "component": "app-timeline-leaf",
+            "mask": true,
+            "title": [
+                "ANTIMICROBIAL",
+                "PROPERTIES"
+            ],
+            "description": [
+                "For every Rainforest Foods product sold",
+                " we fund the purchase of one square metre of cloud forest",
+                "in the Neblina Reserve, Ecuador."
+            ],
+            "product": false,
+            "triggers": false,
+            "ratio": [
+                7,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-leaf-background",
+                    "url": "slide-leaf-background",
+                    "scale": 1.1822660099,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": -0.1,
+                    "y": -0.125
+                },
+                {
+                    "id": "flamingo-bird-emiter-2",
+                    "type": "particle-emiter",
+                    "particle-type": "bird",
+                    "scale": 0.75,
+                    "animated": true,
+                    "count": 5,
+                    "frames": [
+                        16
+                    ],
+                    "url": [
+                        "bird_fly_v2_"
+                    ],
+                    "decimals": [
+                        4
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "id": "slide-leaf-leaf-emiter",
+                    "type": "particle-emiter",
+                    "particle-type": "leaf",
+                    "particle-scale": 0.25,
+                    "animated": true,
+                    "count": 15,
+                    "frames": [
+                        76
+                    ],
+                    "url": [
+                        "sprite-leaf-"
+                    ],
+                    "decimals": [
+                        5
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-tree-4",
+                    "url": "slide-leaf-tree-4",
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": 0.11,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-tree-3",
+                    "url": "slide-leaf-tree-3",
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": -0.1,
+                    "y": 0.2
+                },
+                {
+                    "id": "slide-leaf-leaf-emiter",
+                    "type": "particle-emiter",
+                    "particle-type": "leaf",
+                    "particle-scale": 0.3,
+                    "animated": true,
+                    "count": 5,
+                    "frames": [
+                        76
+                    ],
+                    "url": [
+                        "sprite-leaf-"
+                    ],
+                    "decimals": [
+                        5
+                    ],
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-light",
+                    "url": "slide-leaf-light",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "scale": 2,
+                    "x": 0.1,
+                    "y": -0.1
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 20,
+                    "id": "slide-leaf-dust-background-emiter",
+                    "url": [
+                        "particle-dust-background"
+                    ],
+                    "ratio": 0.1,
+                    "particle-scale": 0.5,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-tree-2",
+                    "url": "slide-leaf-tree-2",
+                    "ratio": 0.13,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": 0.55,
+                    "y": -0.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-tree-1",
+                    "url": "slide-leaf-tree-1",
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": -0.1,
+                    "y": -0.1
+                },
+                {
+                    "id": "slide-leaf-leaf-emiter-2",
+                    "type": "particle-emiter",
+                    "particle-type": "leaf",
+                    "particle-scale": 0.6,
+                    "animated": true,
+                    "count": 5,
+                    "frames": [
+                        76
+                    ],
+                    "url": [
+                        "sprite-leaf-"
+                    ],
+                    "decimals": [
+                        5
+                    ],
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-light",
+                    "url": "slide-leaf-light",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "scale": 2,
+                    "x": 0.1,
+                    "y": -0.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-bush-back",
+                    "url": "slide-leaf-bush-back",
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": 0.85,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-bush-front",
+                    "url": "slide-leaf-bush-front",
+                    "ratio": 0.18,
+                    "anchor": "0,0",
+                    "forceTopLeftAnchor": true,
+                    "x": 1.04,
+                    "y": 0.4
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 5,
+                    "id": "slide-leaf-dust-foreground-emiter",
+                    "url": [
+                        "particle-dust-foreground"
+                    ],
+                    "ratio": 0.2,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-glow",
+                    "url": "slide-leaf-glow",
+                    "ratio": 0.15,
+                    "anchor": "0.5,0.18",
+                    "x": 0.4,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-leaf-hoop",
+                    "url": "slide-leaf-hoop",
+                    "ratio": 0,
+                    "anchor": "0.5,0.5",
+                    "scale": 1.5,
+                    "x": 0.3,
+                    "y": 0.5
+                }
+            ]
+        },
+        {
+            "id": "slide-flamingo",
+            "component": "app-timeline-flamingo",
+            "mask": true,
+            "title": [
+                "WATER-RELATED",
+                "APPLICATIONS"
+            ],
+            "description": [
+                "The lesser flamingo's staple food is spirulina,",
+                " and it is the carotenoids in spirulina that give flamingos",
+                " their vibrant pink colour."
+            ],
+            "product": {
+                "id": "product-spirulina",
+                "title": "Spirulina",
+                "img": "./assets/images/products-spirulina-packshot.png",
+                "index": 1
+            },
+            "triggers": false,
+            "ratio": [
+                14,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 0,
+                    "id": "slide-flamingo-water",
+                    "url": "slide-flamingo-water",
+                    "ratio": 0.1,
+                    "anchor": "0,1",
+                    "forceTopLeftAnchor": true,
+                    "x": 0,
+                    "y": 0.548,
+                    "scale": 1.1822660099
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 342,
+                    "id": "slide-flamingo-background",
+                    "url": "slide-flamingo-background",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.1641,
+                    "scale": 1.1822660099
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 342,
+                    "id": "slide-flamingo-fix",
+                    "url": "slide-flamingo-fix",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.445,
+                    "scale": 1.1822660099
+                },
+                {
+                    "type": "image",
+                    "id": "slide-flamingo-fog",
+                    "url": "slide-flamingo-fog",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": -0.1
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 195,
+                    "id": "slide-flamingo-island-1",
+                    "url": "slide-flamingo-island-1",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.255,
+                    "y": 0.613
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 250,
+                    "id": "slide-flamingo-island-3",
+                    "url": "slide-flamingo-island-3",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 180,
+                    "id": "slide-flamingo-flamingo-dark",
+                    "url": "slide-flamingo-flamingo-dark",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.5,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 180,
+                    "id": "slide-flamingo-flamingo-light",
+                    "url": "slide-flamingo-flamingo-light",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.5,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 50,
+                    "id": "slide-flamingo-island-2",
+                    "url": "slide-flamingo-island-2",
+                    "forceTopLeftAnchor": true,
+                    "alpha": true,
+                    "ratio": 0.102,
+                    "anchor": "1,1",
+                    "x": 0.6779,
+                    "y": 0.4999
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 30,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 50,
+                    "id": "slide-flamingo-island-4",
+                    "url": "slide-flamingo-island-4",
+                    "alpha": true,
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0.19,
+                    "y": 0.76
+                },
+                {
+                    "type": "image",
+                    "id": "slide-flamingo-leaves",
+                    "url": "slide-flamingo-leaves",
+                    "alpha": true,
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "x": 0.2,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-flamingo-sun",
+                    "url": "slide-flamingo-sun",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-flamingo-flares",
+                    "url": "slide-flamingo-flares",
+                    "alpha": true,
+                    "ratio": 0.1,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-frog",
+            "component": "app-timeline-frog",
+            "mask": true,
+            "title": [
+                "NATURE'S SECRET",
+                "IS PATIENCE"
+            ],
+            "description": [
+                "Chia was first consumed as food over 5000 years ago but it is only",
+                "in the last few years that this small seed has become a global hit due to its amazing nutritional profile."
+            ],
+            "product": {
+                "id": "product-chia",
+                "title": "Chia",
+                "img": "./assets/images/products-chia-packshot.png",
+                "index": 1
+            },
+            "triggers": [
+                {
+                    "id": "lemur-trigger",
+                    "label": "explore",
+                    "class": "explore-btn explore-btn--lemur js-lemur-trigger"
+                },
+                {
+                    "id": "frog-trigger",
+                    "label": "explore",
+                    "class": "explore-btn explore-btn--frog js-frog-trigger"
+                }
+            ],
+            "ratio": [
+                11,
+                3
+            ],
+            "still-mult": 1.75,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-360-background",
+                    "url": "slide-360-background",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1.35
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-background-blured",
+                    "url": "slide-360-background-blured",
+                    "scale": 2.7,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-8",
+                    "url": "slide-360-tree-8",
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": 0.3,
+                    "y": 0.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-8-blured",
+                    "url": "slide-360-tree-8-blured",
+                    "scale": 2,
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": 0.3,
+                    "y": 0.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-bush",
+                    "url": "slide-360-bush",
+                    "ratio": 0.125,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-bush-blured",
+                    "url": "slide-360-bush-blured",
+                    "scale": 2,
+                    "ratio": 0.125,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.3
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-7",
+                    "url": "slide-360-tree-7",
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": 0.75,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-7-blured",
+                    "url": "slide-360-tree-7-blured",
+                    "scale": 2,
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": 0.75,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-6",
+                    "url": "slide-360-tree-6",
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0.58,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-6-blured",
+                    "url": "slide-360-tree-6-blured",
+                    "scale": 2,
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0.58,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-5",
+                    "url": "slide-360-tree-5",
+                    "ratio": 0.13,
+                    "anchor": "0,0",
+                    "x": 0.65,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-5-blured",
+                    "url": "slide-360-tree-5-blured",
+                    "scale": 2,
+                    "ratio": 0.13,
+                    "anchor": "0,0",
+                    "x": 0.65,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 30,
+                    "id": "slide-leaf-dust-foreground-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2",
+                        "particle-dust-3",
+                        "particle-dust-4"
+                    ],
+                    "ratio": 0.12,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-glow",
+                    "url": "slide-360-glow",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-hidden",
+                    "url": "slide-360-tree-hidden",
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-hidden-blured",
+                    "url": "slide-360-tree-hidden-blured",
+                    "scale": 2,
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-3",
+                    "url": "slide-360-tree-3",
+                    "ratio": 0.1685,
+                    "anchor": "0,0",
+                    "x": 0.24,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-3-blured",
+                    "url": "slide-360-tree-3-blured",
+                    "scale": 2,
+                    "ratio": 0.1685,
+                    "anchor": "0,0",
+                    "x": 0.24,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-2",
+                    "url": "slide-360-tree-2",
+                    "ratio": 0.16,
+                    "anchor": "0,0",
+                    "x": 0.1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-2-blured",
+                    "url": "slide-360-tree-2-blured",
+                    "scale": 2,
+                    "ratio": 0.16,
+                    "anchor": "0,0",
+                    "x": 0.1,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-1",
+                    "url": "slide-360-tree-1",
+                    "ratio": 0.17,
+                    "anchor": "0,0",
+                    "x": 0.25,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-tree-1-blured",
+                    "url": "slide-360-tree-1-blured",
+                    "scale": 2,
+                    "ratio": 0.17,
+                    "anchor": "0,0",
+                    "x": 0.25,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 5,
+                    "id": "slide-leaf-dust-foreground-emiter",
+                    "url": [
+                        "particle-dust-foreground"
+                    ],
+                    "ratio": 0.2,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-5",
+                    "url": "slide-360-grass-5",
+                    "scale": 2,
+                    "ratio": 0.29,
+                    "anchor": "0,0",
+                    "x": 0.65,
+                    "y": 0.4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-5-blured",
+                    "url": "slide-360-grass-5-blured",
+                    "scale": 4,
+                    "blur": true,
+                    "ratio": 0.29,
+                    "anchor": "0,0",
+                    "x": 0.65,
+                    "y": 0.4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-4",
+                    "url": "slide-360-grass-4",
+                    "scale": 2,
+                    "ratio": 0.3,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": 0.58
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-4-blured",
+                    "url": "slide-360-grass-4-blured",
+                    "scale": 4,
+                    "blur": true,
+                    "ratio": 0.3,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": 0.58
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-3",
+                    "url": "slide-360-grass-3",
+                    "ratio": 0.3,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-3-blured",
+                    "url": "slide-360-grass-3-blured",
+                    "scale": 4,
+                    "blur": true,
+                    "ratio": 0.3,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-2",
+                    "url": "slide-360-grass-2",
+                    "ratio": 0.3,
+                    "scale": 1,
+                    "anchor": "0,0",
+                    "x": 0.75,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-2-blured",
+                    "url": "slide-360-grass-2-blured",
+                    "scale": 2,
+                    "ratio": 0.3,
+                    "blur": true,
+                    "anchor": "0,0",
+                    "x": 0.75,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-1",
+                    "url": "slide-360-grass-1",
+                    "ratio": 0.31,
+                    "anchor": "0,0",
+                    "x": 0.95,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-360-grass-1-blured",
+                    "url": "slide-360-grass-1-blured",
+                    "scale": 2,
+                    "ratio": 0.31,
+                    "blur": true,
+                    "anchor": "0,0",
+                    "x": 0.95,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-rain",
+            "component": "app-timeline-rain",
+            "mask": true,
+            "title": [
+                "THE EARTH",
+                "HAS MUSIC FOR",
+                "THOSE WHO LISTEN"
+            ],
+            "description": [
+                "Nature can have a transformative effect on our wellbeing.",
+                "The sounds and sights of nature can help reduce stress,",
+                "enhance mood and improve mental health."
+            ],
+            "product": false,
+            "triggers": [
+                {
+                    "id": "rain-trigger",
+                    "label": "explore",
+                    "class": "explore-btn explore-btn--butterfly js-rain-trigger"
+                }
+            ],
+            "ratio": [
+                16,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "rain-background",
+                    "url": "slide-rain-background",
+                    "scale": 1.1822660099,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-background-blured",
+                    "url": "slide-rain-background-blured",
+                    "scale": 1.3333333333,
+                    "blur": true,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 20,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-tree",
+                    "url": "slide-rain-tree",
+                    "alpha": true,
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": 0.45,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-tree-blured",
+                    "url": "slide-rain-tree-blured",
+                    "scale": 2,
+                    "blur": true,
+                    "alpha": true,
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": 0.45,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-butterfly",
+                    "url": "sprite-butterfly-",
+                    "animated": true,
+                    "frames": 65,
+                    "decimals": 5,
+                    "alpha": true,
+                    "ratio": 0.15,
+                    "anchor": "0.5,0.5",
+                    "x": 0.53,
+                    "y": 0.34
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-butterfly-blured",
+                    "url": "sprite-butterfly-blur-",
+                    "scale": 2,
+                    "blur": true,
+                    "animated": true,
+                    "frames": 65,
+                    "decimals": 5,
+                    "alpha": true,
+                    "ratio": 0.15,
+                    "anchor": "0.5,0.5",
+                    "x": 0.53,
+                    "y": 0.34
+                },
+                {
+                    "type": "image",
+                    "id": "slide-rain-light",
+                    "url": "slide-rain-light",
+                    "alpha": true,
+                    "ratio": 0,
+                    "anchor": "0,0",
+                    "scale": 2,
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "video",
+                    "id": "rain-video-overlay",
+                    "url": {
+                        "1920": "assets/videos/rain-1920.mp4",
+                        "1600": "assets/videos/rain-1600.mp4",
+                        "1024": "assets/videos/rain-1024.mp4",
+                        "768": "assets/videos/rain-1024.mp4"
+                    },
+                    "fallback": "rain",
+                    "blendMode": "SCREEN",
+                    "scale": 1,
+                    "ratio": 0,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-marsh",
+            "component": "app-timeline-marsh",
+            "mask": true,
+            "title": [
+                "NOT ALL THOSE",
+                "WHO WANDER",
+                "ARE LOST"
+            ],
+            "description": [
+                "The search for nature's best often takes us to the world's most remote",
+                "places such as The Andes Mountains, 4000m above sea level,",
+                "where maca is found."
+            ],
+            "product": {
+                "id": "product-macaroot",
+                "title": "Maca root",
+                "img": "./assets/images/products-macaroot-packshot.png",
+                "index": 1
+            },
+            "triggers": false,
+            "ratio": [
+                20,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 230,
+                    "id": "slide-firefly-background",
+                    "url": "slide-firefly-background",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": -0.2,
+                    "y": -0.065,
+                    "scale": 1.3004926108
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 0,
+                    "id": "slide-firefly-water",
+                    "url": "slide-firefly-water",
+                    "ratio": 0.1,
+                    "anchor": "0,1",
+                    "forceTopLeftAnchor": true,
+                    "x": -0.2,
+                    "y": 0.75,
+                    "scale": 1.3004926108
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 230,
+                    "id": "slide-marsh-fix",
+                    "url": "slide-marsh-fix",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": -0.2,
+                    "y": 0.65,
+                    "scale": 1.1
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 210,
+                    "id": "slide-firefly-tree-2",
+                    "url": "slide-firefly-tree-2",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.7,
+                    "y": -0.22
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 200,
+                    "id": "slide-firefly-tree-5",
+                    "url": "slide-firefly-tree-5",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.36,
+                    "y": -0.26
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 200,
+                    "id": "slide-firefly-tree-3",
+                    "url": "slide-firefly-tree-3",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.47,
+                    "y": -0.26
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 160,
+                    "id": "slide-firefly-tree-4",
+                    "url": "slide-firefly-tree-4",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.29,
+                    "y": -0.25
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "firefly",
+                    "count": 20,
+                    "id": "slide-firefly-background-emiter",
+                    "url": [
+                        "particle-firefly-background-1",
+                        "particle-firefly-background-2",
+                        "particle-firefly-background-3"
+                    ],
+                    "ratio": 0.1,
+                    "particle-scale": 0.5,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "fake3d": true,
+                    "perspectiveDeltaY": 95,
+                    "id": "slide-firefly-tree-1",
+                    "url": "slide-firefly-tree-1",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.4,
+                    "y": -0.37
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "firefly",
+                    "count": 5,
+                    "id": "slide-firefly-forground-emiter",
+                    "url": [
+                        "particle-firefly-forground-1",
+                        "particle-firefly-forground-2",
+                        "particle-firefly-forground-3"
+                    ],
+                    "ratio": 0.1,
+                    "particle-scale": 0.5,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 5,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-sparkle-1",
+                        "particle-sparkle-2",
+                        "particle-sparkle-3"
+                    ],
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-waterfall",
+            "component": "app-timeline-waterfall",
+            "mask": true,
+            "title": [
+                "WATER",
+                "SUSTAINS ALL"
+            ],
+            "description": [
+                "Rainforest Foods supports charities such as Warka Water",
+                " that are developing innovative solutions to provide clean,",
+                "accessible and sustainable water supplies in the developing world."
+            ],
+            "product": false,
+            "triggers": false,
+            "ratio": [
+                22,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-waterfall-sky",
+                    "url": "slide-waterfall-sky",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1.1
+                },
+                {
+                    "type": "video",
+                    "id": "waterfall-video",
+                    "url": {
+                        "1920": "assets/videos/waterfall-1920.mp4",
+                        "1600": "assets/videos/waterfall-1600.mp4",
+                        "1024": "assets/videos/waterfall-1024.mp4",
+                        "768": "assets/videos/waterfall-1024.mp4"
+                    },
+                    "fallback": "waterfall",
+                    "blendMode": "SCREEN",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": -0.035,
+                    "y": 0,
+                    "scale": 1.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-waterfall-left-rock",
+                    "url": "slide-waterfall-left-rock",
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "x": 0.01,
+                    "y": 0.1,
+                    "scale": 1.15
+                },
+                {
+                    "type": "image",
+                    "id": "slide-waterfall-light",
+                    "url": "slide-waterfall-light",
+                    "scale": 2,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.4,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-waterfall-rainbow",
+                    "url": "slide-waterfall-rainbow",
+                    "scale": 2,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0.45,
+                    "y": 0.15
+                },
+                {
+                    "type": "image",
+                    "id": "slide-waterfall-blue-light",
+                    "url": "slide-waterfall-blue-light",
+                    "ratio": 0.12,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "video",
+                    "id": "rain-video-overlay",
+                    "url": {
+                        "1920": "assets/videos/rain-1920.mp4",
+                        "1600": "assets/videos/rain-1600.mp4",
+                        "1024": "assets/videos/rain-1024.mp4",
+                        "768": "assets/videos/rain-1024.mp4"
+                    },
+                    "fallback": "rain",
+                    "blendMode": "SCREEN",
+                    "scale": 1,
+                    "ratio": 0,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-water",
+            "component": "app-timeline-water",
+            "mask": true,
+            "title": [
+                "WHEN YOU SEEK",
+                "YOU LEAD",
+                "IN DISCOVERY"
+            ],
+            "description": [
+                "Did you know that 95% of the ocean",
+                "is still waiting to be explored.",
+                "One of its treasures is Chlorella."
+            ],
+            "product": {
+                "id": "product-chlorella",
+                "title": "Chlorella",
+                "img": "./assets/images/products-chlorella-packshot.png",
+                "index": 1
+            },
+            "triggers": [
+                {
+                    "id": "water-trigger",
+                    "label": "explore",
+                    "class": "explore-btn js-water-trigger"
+                }
+            ],
+            "ratio": [
+                24,
+                25
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-water-land-background",
+                    "url": "slide-water-land-background",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-background",
+                    "url": "slide-water-under-background",
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.95,
+                    "scale": 1.1330049261
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-surface",
+                    "url": "slide-water-surface",
+                    "scale": 1.1330049261,
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 0.68
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-wave",
+                    "url": "slide-water-wave",
+                    "ratio": 0.115,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.95
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-land-middleground",
+                    "url": "slide-water-land-middleground",
+                    "ratio": 0.102,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-land-shore",
+                    "url": "slide-water-land-shore",
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0.4,
+                    "y": 0.5
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-land-left-rock",
+                    "url": "slide-water-land-left-rock",
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.14
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-fog",
+                    "url": "slide-water-fog",
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.65,
+                    "scale": 3
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-fog-2",
+                    "url": "slide-water-fog-2",
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.2,
+                    "scale": 4
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-main-rock",
+                    "url": "slide-water-under-main-rock",
+                    "ratio": 0.11,
+                    "anchor": "0,0",
+                    "x": 0.45,
+                    "y": 2.05
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-fish-4",
+                    "url": "slide-water-under-fish-4",
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0.25,
+                    "y": 1.8,
+                    "scale": 1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-fish-3",
+                    "url": "slide-water-under-fish-3",
+                    "ratio": 0.105,
+                    "anchor": "0,0",
+                    "x": 0.35,
+                    "y": 2.1,
+                    "scale": 1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-fish-1",
+                    "url": "slide-water-under-fish-1",
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0.85,
+                    "y": 2.1,
+                    "scale": 1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-fish-2",
+                    "url": "slide-water-under-fish-2",
+                    "ratio": 0.115,
+                    "anchor": "0,0",
+                    "x": 0.4,
+                    "y": 1.9,
+                    "scale": 1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-grass-5",
+                    "url": "slide-water-under-grass-5",
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 1.7,
+                    "scale": 2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-grass-4",
+                    "url": "slide-water-under-grass-4",
+                    "ratio": 0.14,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 1.7,
+                    "scale": 2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-grass-3",
+                    "url": "slide-water-under-grass-3",
+                    "ratio": 0.145,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 1.7,
+                    "scale": 2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-grass-2",
+                    "url": "slide-water-under-grass-2",
+                    "ratio": 0.15,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 1.7,
+                    "scale": 2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-grass-1",
+                    "url": "slide-water-under-grass-1",
+                    "ratio": 0.155,
+                    "anchor": "0,0",
+                    "x": -0.1,
+                    "y": 1.7,
+                    "scale": 2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-water-under-foreground-rock",
+                    "url": "slide-water-under-foreground-rock",
+                    "ratio": 0.16,
+                    "anchor": "0,0",
+                    "x": -0.05,
+                    "y": 2.4,
+                    "scale": 2
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 50,
+                    "id": "flamingo-particle-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.1,
+                    "particle-scale": 1.5,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                }
+            ]
+        },
+        {
+            "id": "slide-chameleon",
+            "component": "app-timeline-chameleon",
+            "mask": true,
+            "title": [
+                "THE COLOURS",
+                "OF NATURE SAY",
+                "SO MUCH"
+            ],
+            "description": [
+                "From deep blues, to earthy browns to thousands of shades",
+                "of green, nature fills us with the goodness of colour.",
+                "Wheatgrass is a vibrant example."
+            ],
+            "product": {
+                "id": "product-wheatgrass",
+                "title": "Wheatgrass",
+                "img": "./assets/images/products-wheatgrass-packshot.png",
+                "index": 1
+            },
+            "triggers": false,
+            "ratio": [
+                18,
+                3
+            ],
+            "still-mult": 1,
+            "offset": 0,
+            "objects": [
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-background",
+                    "url": "slide-chameleon-background",
+                    "scale": 1.1822660099,
+                    "ratio": 0.1,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "chameleon-green",
+                    "url": "slide-chameleon-chameleon",
+                    "alpha": true,
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.16
+                },
+                {
+                    "type": "image",
+                    "id": "chameleon-blue",
+                    "url": "slide-chameleon-chameleon-2",
+                    "alpha": true,
+                    "ratio": 0.12,
+                    "anchor": "0,0",
+                    "x": 0.3065,
+                    "y": 0.16
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 30,
+                    "id": "slide-leaf-dust-foreground-emiter",
+                    "url": [
+                        "particle-dust-1",
+                        "particle-dust-2"
+                    ],
+                    "ratio": 0.12,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "particle-emiter",
+                    "particle-type": "dust",
+                    "count": 5,
+                    "id": "slide-leaf-dust-foreground-emiter",
+                    "url": [
+                        "particle-dust-foreground"
+                    ],
+                    "ratio": 0.2,
+                    "anchor": "0.5,0.5",
+                    "x": 0,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-1",
+                    "url": "slide-chameleon-branch-1",
+                    "alpha": true,
+                    "ratio": 0.25,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0.6,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-2",
+                    "url": "slide-chameleon-branch-2",
+                    "alpha": true,
+                    "ratio": 0.21,
+                    "scale": 2,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.7
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-3",
+                    "url": "slide-chameleon-branch-3",
+                    "alpha": true,
+                    "ratio": 0.17,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-red-4",
+                    "url": "slide-chameleon-branch-red-4",
+                    "alpha": true,
+                    "ratio": 0.45,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0.9,
+                    "y": 0
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-red-3",
+                    "url": "slide-chameleon-branch-red-3",
+                    "alpha": true,
+                    "ratio": 0.41,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0.8,
+                    "y": 0.1
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-red-2",
+                    "url": "slide-chameleon-branch-red-2",
+                    "alpha": true,
+                    "ratio": 0.4,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0.2,
+                    "y": 0.2
+                },
+                {
+                    "type": "image",
+                    "id": "slide-chameleon-branch-red-1",
+                    "url": "slide-chameleon-branch-red-1",
+                    "alpha": true,
+                    "ratio": 0.37,
+                    "scale": 4,
+                    "anchor": "0,0",
+                    "x": 0.2,
+                    "y": 0.2
+                }
+            ]
+        }
+    ]
+}

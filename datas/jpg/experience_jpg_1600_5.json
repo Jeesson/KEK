@@ -1,0 +1,30 @@
+{"frames": {
+
+"slide-firefly-background":
+{
+	"frame": {"x":1,"y":940,"w":1692,"h":625},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1692,"h":625},
+	"sourceSize": {"w":1692,"h":625},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-tree-background":
+{
+	"frame": {"x":1,"y":1,"w":1692,"h":937},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1692,"h":937},
+	"sourceSize": {"w":1692,"h":937},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1600_5.jpg",
+	"format": "RGB888",
+	"size": {"w":1694,"h":1566},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

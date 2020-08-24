@@ -1,0 +1,93 @@
+{"frames": {
+
+"slide-360-background-blured":
+{
+	"frame": {"x":1018,"y":1749,"w":508,"h":239},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":508,"h":239},
+	"sourceSize": {"w":508,"h":239},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-360-background":
+{
+	"frame": {"x":1528,"y":1,"w":1015,"h":478},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":478},
+	"sourceSize": {"w":1015,"h":478},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-firefly-background":
+{
+	"frame": {"x":1,"y":1617,"w":1015,"h":375},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":375},
+	"sourceSize": {"w":1015,"h":375},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-health-background-top":
+{
+	"frame": {"x":1,"y":565,"w":1015,"h":508},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":508},
+	"sourceSize": {"w":1015,"h":508},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-health-middleground":
+{
+	"frame": {"x":1018,"y":1018,"w":960,"h":277},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":277},
+	"sourceSize": {"w":960,"h":277},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-rain-background-blured":
+{
+	"frame": {"x":1018,"y":1297,"w":900,"h":450},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":900,"h":450},
+	"sourceSize": {"w":900,"h":450},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-rain-background":
+{
+	"frame": {"x":1018,"y":1,"w":1015,"h":508},
+	"rotated": true,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":508},
+	"sourceSize": {"w":1015,"h":508},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-tree-background":
+{
+	"frame": {"x":1,"y":1,"w":1015,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1015,"h":562},
+	"sourceSize": {"w":1015,"h":562},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"slide-waterfall-sky":
+{
+	"frame": {"x":1,"y":1075,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/experience_spritemap_jpg_1024_1.jpg",
+	"format": "RGB888",
+	"size": {"w":2007,"h":1993},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:e298c219858868442d7916d4fcdd7228:7377a98251243d0d80648767fde00494:60e2a03288fad0617f1492b5f986583b$"
+}
+}

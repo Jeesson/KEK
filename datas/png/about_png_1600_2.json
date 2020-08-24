@@ -1,0 +1,57 @@
+{"frames": {
+
+"about-cloud":
+{
+	"frame": {"x":654,"y":1,"w":335,"h":422},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":2,"w":335,"h":422},
+	"sourceSize": {"w":335,"h":424},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-flare":
+{
+	"frame": {"x":1,"y":1,"w":651,"h":500},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":651,"h":500},
+	"sourceSize": {"w":651,"h":500},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fruit-1":
+{
+	"frame": {"x":654,"y":425,"w":277,"h":327},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":277,"h":327},
+	"sourceSize": {"w":277,"h":327},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fruit-3":
+{
+	"frame": {"x":295,"y":503,"w":285,"h":271},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":285,"h":271},
+	"sourceSize": {"w":285,"h":271},
+	"pivot": {"x":0.5,"y":0.5}
+},
+"about-fruit-4":
+{
+	"frame": {"x":1,"y":503,"w":292,"h":206},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":292,"h":206},
+	"sourceSize": {"w":292,"h":206},
+	"pivot": {"x":0.5,"y":0.5}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "../../assets/images/spritemap/about_spritemap_png_1600_2.png",
+	"format": "RGBA8888",
+	"size": {"w":990,"h":775},
+	"scale": "0.83333",
+	"smartupdate": "$TexturePacker:SmartUpdate:1e81e9a6cf8b438c33cc0bf65bec59cf:77d6060938070f48898c866fd4a55243:c5798b5e7fe571c0bad2f8905ad54137$"
+}
+}
